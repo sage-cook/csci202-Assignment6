@@ -1,0 +1,20 @@
+body {
+	margin: 0;
+	background: #111133;
+}
+header {
+	background: black;
+	padding: 20px;
+}
+h1 {
+	margin: 0;
+	font: bold 30px Helvetica, sans-serif;
+	color: white;
+	text-align: center;
+}
+canvas {
+	margin: auto;
+	margin-top: 10px;
+	display: block;
+	border: 2px dotted #aaaa00
+}
