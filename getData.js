@@ -1,5 +1,5 @@
 
-$.getJSON('https://api.open-notify.org/astros.json?callback=?', function(data) {
+$.getJSON('http://api.open-notify.org/astros.json?callback=?', function(data) {
 	
 	// module aliases
 	var Engine = Matter.Engine,
